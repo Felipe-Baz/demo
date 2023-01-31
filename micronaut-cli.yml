@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.baz
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, github-workflow-ci, graalvm, gradle, h2, http-client, jackson-databind, junit, kotlin, kotlin-application, kotlin-build, logback, management, micrometer, micrometer-annotation, micronaut-build, netty-server, openapi, readme, security-annotations, security-jwt, shade, swagger-ui, yaml]
